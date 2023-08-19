@@ -16,7 +16,7 @@ Users should be able to:
 
 # Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/markhadi/newsletter-sign-up
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 # Built with
@@ -29,11 +29,9 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [TailwindCSS](https://tailwindcss.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 # What I learned
 
 # Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/markhadi)
+- Twitter - [@\_mrkhd](https://www.twitter.com/_mrkhd)
