@@ -31,9 +31,9 @@ Users should be able to:
 
 # What I learned
 
-✅ Kondisional Rendering: Seamlessly crafting user interfaces that adapt and respond to user interactions.
-✅ useState Mastery: Dynamically managing and reflecting state changes, ensuring a fluid user experience.
-✅ Props in Action: Building modular and reusable components, enhancing the efficiency of my applications.
+✅ Kondisional Rendering: Seamlessly crafting user interfaces that adapt and respond to user interactions. <br/>
+✅ useState Mastery: Dynamically managing and reflecting state changes, ensuring a fluid user experience. <br/>
+✅ Props in Action: Building modular and reusable components, enhancing the efficiency of my applications. <br/>
 ✅ Mapping Lists: Efficiently rendering dynamic lists, ensuring smooth user navigation.
 
 # Author
