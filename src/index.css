@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply min-h-screen font-roboto text-base bg-charcoal-grey xs:grid xs:place-content-center;
+  }
+
+  main {
+    @apply bg-white max-w-xl overflow-hidden xs:rounded-[36px] md:grid md:grid-cols-2 md:max-w-[928px]  md:p-6;
+  }
+
+  h1 {
+    @apply text-dark-slate-grey font-bold text-lg mb-6 xl:text-xl;
+  }
+
+  p {
+    @apply font-normal text-charcoal-grey;
+  }
+
+  ul {
+    @apply flex flex-col gap-[10px];
+  }
+
+  li {
+    @apply flex gap-4 items-start;
+  }
+
+  input {
+    @apply text-sm text-charcoal-grey font-normal px-6 py-[18px] w-full outline-none border border-grey-500 rounded-[10px] 
+    placeholder:text-grey-400 placeholder:font-normal
+    focus:border-dark-slate-grey;
+  }
+
+  button {
+    @apply relative w-full h-14 flex items-center justify-center bg-dark-slate-grey text-white 
+    rounded-[10px] transition-all duration-500 overflow-hidden z-[1];
+  }
+}
+
+@layer components {
+  .btn {
+    @apply hover:bg-opacity-0 hover:shadow-[0px_13px_34px_-13px_hsl(4,100%,67%)] 
+    before:absolute before:top-0 before:left-0 before:bottom-0 before:right-0 before:bg-gradient-to-r before:from-tomato-400 
+    before:to-orange before:opacity-0 before:transition-all before:duration-500 before:z-[-1] 
+    before:hover:opacity-100;
+  }
+}
