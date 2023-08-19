@@ -33,5 +33,5 @@ Users should be able to:
 
 # Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/markhadi)
+- Frontend Mentor - [markhadi](https://www.frontendmentor.io/profile/markhadi)
 - Twitter - [@\_mrkhd](https://www.twitter.com/_mrkhd)
